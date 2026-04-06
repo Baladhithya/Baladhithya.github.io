@@ -1,0 +1,26 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "FZlPMdoi8jbcwrWFqz_ua"
+uri = "file://portfolio-website-code.zip"
+type = "unspecified"
+title = "Portfolio Website Source Code"
+
+[[outputs]]
+id = "9D2fkWGzWxlKSVs1Te7nI"
+uri = "file://README.md"
+type = "text"
+title = "README — Portfolio Setup Guide"
+
+[[outputs]]
+id = "jJAAmEvwVL8r3mivOHrdO"
+uri = "file://portfolio.zip"
+type = "unspecified"
+title = "portfolio.zip"
+
+[[outputs]]
+id = "skO4QbZd-NaMPEjhQGU_E"
+uri = "file://portfolio_v2.zip"
+type = "unspecified"
+title = "portfolio_v2.zip — latest version"
